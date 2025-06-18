@@ -10,4 +10,5 @@ VulnCrawler v2.0- 漏洞情报拉取工具更新速览
 Windows / macOS 双平台正式打包
 
 自带灵动渐变图标，摸鱼更有仪式感
-![Uploading image.png…]()
+
+<img width="1374" alt="image" src="https://github.com/user-attachments/assets/ed5ca0e5-e8eb-4044-a329-0109c4236731" />
