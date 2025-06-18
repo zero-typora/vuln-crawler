@@ -22,5 +22,4 @@ class VulnItem:
             f"【漏洞来源】{self.source}\n"
             f"【漏洞描述】{self.description or ''}\n"
             f"【参考链接】{self.reference or ''}\n"
-            f"【poc/exp】"
         )
